@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trial_Prototype</string>
+   
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="log">Login</string>
+    <string name="regLink">Register here</string>
+    
+    
+    <string name="reg">Register</string>
+    <string name="gen">Gender</string>
+    <string name="orio">Orientation</string>
+    <string name="email">Email</string>
+
+
+</resources>
